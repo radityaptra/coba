@@ -26,8 +26,8 @@
           </nuxt-link>
           <nuxt-link to="/recipe/ayam-betutu" class="recipe-card">
             <img src="/assets/ayam betutu.jpeg" alt="Ayam Betutu">
-            <h3>Sup Ayam</h3>
-            <p>Sup Ayam adalah makanan dari Bali.</p>
+            <h3>Ayam Betutu</h3>
+            <p>Ayam betutu adalah makanan dari Bali.</p>
           </nuxt-link>
         </div>
         <h2>Resep Populer</h2>
