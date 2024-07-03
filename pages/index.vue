@@ -24,8 +24,8 @@
             <h3>Ketoprak</h3>
             <p>Ketoprak adalah makanan dari Jawa Barat.</p>
           </nuxt-link>
-          <nuxt-link to="/recipe/sup-ayam" class="recipe-card">
-            <img src="/assets/sup ayam.jpg" alt="Sup Ayam">
+          <nuxt-link to="/recipe/ayam-betutu" class="recipe-card">
+            <img src="/assets/ayam betutu.jpeg" alt="Ayam Betutu">
             <h3>Sup Ayam</h3>
             <p>Sup Ayam adalah makanan dari Bali.</p>
           </nuxt-link>
