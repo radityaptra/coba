@@ -1,41 +1,44 @@
 <template>
     <div class="recipe-container">
       <header>
-        <h1>Sup Ayam</h1>
+        <h1>Ayam Betutu</h1>
       </header>
   
       <main>
         <div class="recipe-content">
-          <img src="/assets/sup ayam.jpg" alt="Sup Ayam" class="recipe-image">
+          <img src="/assets/ayam betutu.jpeg" alt="Ayam Betutu" class="recipe-image">
           <section>
             <h2>Bahan-bahan</h2>
             <ul>
-              <li>1 ekor ayam, potong-potong</li>
-              <li>200 gram wortel, potong bulat</li>
-              <li>200 gram kentang, potong dadu</li>
-              <li>150 gram buncis, potong-potong</li>
-              <li>100 gram kol, iris kasar</li>
-              <li>4 siung bawang putih, cincang halus</li>
-              <li>6 butir bawang merah, cincang halus</li>
-              <li>1 batang daun bawang, iris halus</li>
-              <li>1 batang seledri, iris halus</li>
-              <li>1 sdt garam</li>
-              <li>1/2 sdt merica</li>
+              <li>1 ekor ayam kampung</li>
+              <li>200 gram kelapa parut</li>
+              <li>5 butir bawang merah</li>
+              <li>3 siung bawang putih</li>
+              <li>4 butir kemiri, sangrai</li>
+              <li>3 cm kunyit, bakar</li>
+              <li>3 cm jahe, bakar</li>
+              <li>2 cm lengkuas, bakar</li>
+              <li>1 sdm gula merah, sisir halus</li>
+              <li>1 sdm garam</li>
+              <li>1 sdm merica bubuk</li>
+              <li>2 lembar daun jeruk purut</li>
+              <li>3 lembar daun salam</li>
+              <li>3 batang serai, memarkan</li>
+              <li>200 ml air matang</li>
               <li>2 sdm minyak goreng</li>
-              <li>1 liter air</li>
             </ul>
           </section>
   
           <section>
             <h2>Cara Membuat</h2>
             <ol>
-              <li>Panaskan minyak goreng di panci, tumis bawang putih dan bawang merah hingga harum.</li>
-              <li>Masukkan ayam, tumis hingga ayam berubah warna.</li>
-              <li>Tambahkan air, masak hingga mendidih.</li>
-              <li>Masukkan wortel, kentang, buncis, dan kol. Masak hingga sayuran matang.</li>
-              <li>Tambahkan garam dan merica, aduk rata.</li>
-              <li>Masukkan daun bawang dan seledri, masak sebentar hingga layu.</li>
-              <li>Angkat dan sajikan Sup Ayam selagi hangat.</li>
+              <li>Bersihkan ayam dan lumuri dengan air jeruk limau.</li>
+              <li>Haluskan bawang merah, bawang putih, kemiri, kunyit, jahe, dan lengkuas.</li>
+              <li>Tumis bumbu halus, daun jeruk, daun salam, dan serai hingga harum.</li>
+              <li>Masukkan ayam dan aduk hingga tercampur rata.</li>
+              <li>Tambahkan kelapa parut, gula merah, garam, dan merica bubuk. Aduk rata.</li>
+              <li>Tuang air, aduk rata dan masak dengan api kecil hingga bumbu meresap dan ayam matang sempurna.</li>
+              <li>Angkat dan sajikan Ayam Betutu selagi hangat.</li>
             </ol>
           </section>
         </div>
